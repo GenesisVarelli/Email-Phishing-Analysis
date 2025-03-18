@@ -17,7 +17,7 @@ This project documents my work with a small business to establish a structured a
 - **Zeek** – Monitoring network traffic for phishing-related activity.
 - **Suricata** – Detection of potential phishing threats.
 - **VirusTotal** – Scanning suspicious URLs and attachments.
-- **Email Header Analyzer** – Checking email authenticity.
+- **Email Header Analyser** – Checking email authenticity.
 - **Python** – Used to help extract and analyse email data.
 
 ## Process
