@@ -61,7 +61,7 @@ This project documents my work with a small business to establish a structured a
 
 ## Conclusion
 
-This project provided hands-on experience in phishing email analysis, helping a small business improve its ability to detect and respond to phishing threats. Using tools like Splunk, Zeek, and Suricata, I developed a structured approach to identifying phishing attacks and enhancing email security practices.
+This project provided hands-on experience in phishing email analysis, helping a small business improve its ability to detect and respond to phishing threats. I developed a structured approach to identifying phishing attacks and enhancing email security practices.
 
 ---
 
