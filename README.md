@@ -11,15 +11,6 @@ This project documents my work with a small business to establish a structured a
 - Identify Indicators of Compromise (IOCs) and use threat intelligence to assess risks.
 - Suggest improvements to email security and employee awareness.
 
-## Tools & Technologies Used
-
-- **Splunk** – Log analysis and identification of phishing trends.
-- **Zeek** – Monitoring network traffic for phishing-related activity.
-- **Suricata** – Detection of potential phishing threats.
-- **VirusTotal** – Scanning suspicious URLs and attachments.
-- **Email Header Analyser** – Checking email authenticity.
-- **Python** – Used to help extract and analyse email data.
-
 ## Process
 
 ### 1. Email Collection & Initial Review
