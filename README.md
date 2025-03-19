@@ -11,6 +11,7 @@ This project documents my work with a small business to establish a structured a
 - Identify Indicators of Compromise (IOCs) and use threat intelligence to assess risks.
 - Suggest improvements to email security and employee awareness.
 
+
 ## Process
 
 ### 1. Email Collection & Initial Review
