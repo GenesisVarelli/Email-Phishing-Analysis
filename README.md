@@ -1,4 +1,4 @@
-# Mastercard Email Phishing Project
+# Mastercard Email Phishing Analysis
 
 This project is designed to enhance security awareness and demonstrate how easily phishing attacks can be made believable. It includes two main tasks to help improve email security and provide a practical solution for teams to recognise and defend against phishing attempts.
 
