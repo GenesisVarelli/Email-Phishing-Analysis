@@ -1,7 +1,7 @@
 # Case Study: Email Phishing Analysis
 
 ## Overview  
-We worked with a financial services company (let’s call them *the Company*) to help their team better understand phishing emails — and how tricky these scams can be. The goal was simple: show how easy it is to make phishing emails look believable, and then teach employees how to spot and stop them.
+We worked with a financial services company to help their team better understand phishing emails and how tricky these scams can be. The goal was simple: show how easy it is to make phishing emails look believable, and then teach employees how to spot and stop them.
 
 ## What We Did
 
@@ -22,7 +22,7 @@ Next, we put together a quick presentation to help employees learn the basics of
 The goal was to give everyone the confidence to avoid falling for these scams.
 
 ## Why It Matters  
-Phishing is one of the most common ways hackers try to break into companies. By showing how easy it is to create believable phishing emails — and teaching people what to look for — we helped the Company get ahead of the threat. Now their team is better equipped to protect themselves and the company’s data.
+Phishing is one of the most common ways hackers try to break into companies. By showing how easy it is to create believable phishing emails and teaching people what to look for we helped the Company get ahead of the threat. Now their team is better equipped to protect themselves and the company’s data.
 
 ## What We Achieved  
 - Highlighted how even obvious phishing emails can be improved to trick people  
