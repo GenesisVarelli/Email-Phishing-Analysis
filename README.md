@@ -1,16 +1,33 @@
-# Mastercard Email Phishing Analysis
+# Case Study: Email Phishing Analysis
 
-This project is designed to enhance security awareness and demonstrate how easily phishing attacks can be made believable. It includes two main tasks to help improve email security and provide a practical solution for teams to recognise and defend against phishing attempts.
+## Overview  
+We worked with a financial services company (let’s call them *the Company*) to help their team better understand phishing emails — and how tricky these scams can be. The goal was simple: show how easy it is to make phishing emails look believable, and then teach employees how to spot and stop them.
 
-## Tasks
+## What We Did
 
-### Task 1: Examine an Obvious Fake Email and Make It More Believable
-- In this task, a clearly fake phishing email will be reviewed and improved to make it more convincing.
-- Techniques such as improved email design, social engineering tactics, and realistic content will be used to enhance the believability of the email.
+### Task 1: Took a Really Obvious Fake Email and Made It Look Real  
+We started with a phishing email that was obviously fake. Then, using some clever tweaks, we made it much more convincing. This included:  
+- Making the sender’s address look authentic  
+- Adding professional branding that matches what the Company usually sends  
+- Crafting a message that feels relevant and urgent (because that’s what real scammers do!)  
 
-### Task 2: Create a Short Presentation to Help Teams Improve Security Awareness
-- A concise presentation aimed at educating teams about phishing risks and how to spot suspicious emails.
-- The presentation will cover key security tips, red flags to look for, and best practices to follow to reduce the likelihood of falling for phishing attacks.
+This showed just how small changes can trick people into clicking on bad links.
 
-## Objective
-The goal of this project is to provide practical insights into how phishing attacks operate and equip teams with the knowledge to identify and respond to these threats effectively.
+### Task 2: Created a Short, Clear Presentation to Help Everyone Stay Safe  
+Next, we put together a quick presentation to help employees learn the basics of spotting phishing emails. We covered things like:  
+- What red flags to watch out for (like weird links or unexpected attachments)  
+- Easy ways to double-check if an email is real  
+- How to report anything suspicious quickly  
+
+The goal was to give everyone the confidence to avoid falling for these scams.
+
+## Why It Matters  
+Phishing is one of the most common ways hackers try to break into companies. By showing how easy it is to create believable phishing emails — and teaching people what to look for — we helped the Company get ahead of the threat. Now their team is better equipped to protect themselves and the company’s data.
+
+## What We Achieved  
+- Highlighted how even obvious phishing emails can be improved to trick people  
+- Delivered practical training that employees can actually use  
+- Helped the Company build stronger security habits  
+- Made employees more confident in spotting and reporting phishing attempts  
+
+All in all, it was a great step toward keeping everyone safer online.
